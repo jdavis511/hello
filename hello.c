@@ -1,13 +1,13 @@
 /*
 *Joe Davis
-*Date
-*Description of Program
+*01/16/20
+*Hack 1 Program
 */
 
 #include <stdio.h>
 
 int main(void) {
 	printf ("Joe Davis\n");
-	printf ("Undeclared\n:);
+	printf ("Undeclared\n");
 	return 0;
 }
